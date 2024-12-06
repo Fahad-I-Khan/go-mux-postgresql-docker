@@ -9,7 +9,6 @@ A simple CRUD (Create, Read, Update, Delete) API for managing users, built using
 - [Usage](#usage)
 - [API Endpoints](#api-endpoints)
 - [Front-End](#front-end)
-- [Docker Setup](#docker-setup)
 - [Dependencies](#dependencies)
 - [Contributing](#contributing)
 - [License](#license)
@@ -21,7 +20,7 @@ This project provides a simple **User Management system** where:
 - Users can be added with their name and email.
 - Users can be retrieved, updated, or deleted by ID.
 - The project is containerized with Docker for easy deployment.
-- A basic front-end HTML interface to interact with the API.
+- A basic front-end HTML interface to interact with the API. 
 
 ## Installation
 
