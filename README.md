@@ -39,7 +39,7 @@ Make sure you have the following installed on your system:
 
    ```bash
    git clone https://github.com/Fahad-I-Khan/go-mux-postgresql-docker.git
-   cd user-management-api 
+   cd go-mux-postgresql-docker
 2. Start the PostgreSQL database container:
 
     ```bash
