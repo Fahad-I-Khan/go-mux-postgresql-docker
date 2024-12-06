@@ -1,4 +1,4 @@
-# User Management API
+# go-mux-postgresql-docker
 
 A simple CRUD (Create, Read, Update, Delete) API for managing users, built using **Go**, **PostgreSQL**, **Docker**, and a basic front-end in **HTML**. This application allows you to create, update, delete, and retrieve users through a REST API, with a simple web interface to interact with the API.
 
