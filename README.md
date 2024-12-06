@@ -11,7 +11,7 @@ A simple CRUD (Create, Read, Update, Delete) API for managing users, built using
 - [Front-End](#front-end)
 - [Dependencies](#dependencies)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Project Description
 
