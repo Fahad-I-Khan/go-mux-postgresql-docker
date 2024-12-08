@@ -4,13 +4,21 @@ A simple CRUD (Create, Read, Update, Delete) API for managing users, built using
 
 ## Table of Contents
 
-- [Project Description](#project-description)
-- [Installation](#installation)
-- [Usage](#usage)
-- [API Endpoints](#api-endpoints)
-- [Front-End](#front-end)
-- [Dependencies](#dependencies)
-- [Contributing](#contributing)
+1. [Tech Stack & Tools](#tech-stack--tools)
+2. [Project Description](#project-description)
+3. [Installation](#installation)
+4. [Usage](#usage)
+5. [API Endpoints](#api-endpoints)
+6. [Front-End](#front-end)
+7. [Dependencies](#dependencies)
+8. [Contributing](#contributing)
+
+
+## Tech Stack & Tools
+
+![Go](https://img.shields.io/badge/Language-Go-blue) ![Mux](https://img.shields.io/badge/Router-Mux-blue) ![GORM](https://img.shields.io/badge/ORM-GORM-blue)  
+![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-blue) ![Docker](https://img.shields.io/badge/Container-Docker-blue) ![Docker Compose](https://img.shields.io/badge/Docker%20Compose-Used-blueviolet)
+![JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow)
 
 
 ## Project Description
